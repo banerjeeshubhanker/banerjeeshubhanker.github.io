@@ -6,7 +6,5 @@ venue: 'In: Dutta D., Kar H., Kumar C., Bhadauria V. (eds) Advances in VLSI, Com
 paperurl: 'https://doi.org/10.1007/978-981-32-9775-3_65'
 ---
 
-[Download paper here](https://doi.org/10.1007/978-981-32-9775-3_65 )
-
  . . 
 
