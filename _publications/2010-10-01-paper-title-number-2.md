@@ -1,15 +1,6 @@
 ---
-title: "Paper Title Number 2"
+title: "Comparison of Pre Trained Embeddings to Identify Hate Speech in Indian Code-Mixed Text, Banerjee S., Chakravarthi B.R., and McCrae J.P."
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'Proceedings of 2nd IEEE International Conference on Advances in Computing, Communication Control and Networking –ICACCCN, Noida, India'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
