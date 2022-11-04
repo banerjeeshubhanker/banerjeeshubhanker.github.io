@@ -16,6 +16,4 @@ Contact
 ======
  
 Email 	shubhanker dot banerjee at adaptcentre dot ie
-  	 
-Office 	Room 3126 in Merrill Engineering Building
 
