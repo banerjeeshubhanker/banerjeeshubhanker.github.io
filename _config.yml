@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Shubhanker Banerjee"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Shubhanker Banerjee"
 description              : &description "personal description"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zigzagthad/academicpages.github.io"
