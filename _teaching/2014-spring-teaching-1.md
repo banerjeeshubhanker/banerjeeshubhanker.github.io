@@ -4,7 +4,6 @@ collection: teaching
 type: "Postgraduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Galway, Department of Computer Science"
-date:  2021-2022
 location: "Galway, Ireland"
 ---
 
